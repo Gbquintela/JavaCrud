@@ -1,0 +1,8 @@
+O código anteriormente apresentava uma solução um pouco mais "ultrapassada", tendo até mesmo que identificar quantos
+produtos a pessoa desejava cadastrar. Modifiquei de forma que a pessoa vai cadastrando até que deseje sair do cadastro,
+além disso acrescentei os menus, para assim ficar mais interativo, e não seguindo diretamente um fluxo!
+Incrementei, além disso, a opção de Pesquisa de forma separada e a exclusão de produtos e sua quantidade;
+Em explicação geral do código, optei por uma estrutura MVC para melhor organização e entendimento do código, e pela POO
+realizando a instância das classes que utilizei para solução.
+Apesar de ter utilizado essas funcionalidades ainda estou aprendendo sobre elas, além disso acredito que há outras forma
+de fazer e também funcionalidades a incrementar nesse programa.
