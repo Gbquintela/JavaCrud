@@ -1,3 +1,4 @@
+Esse COdigo foi uma modificação de um exercicio proposto no meu curso Tecnico de desenvolvimento de sistema pelo Senai CTTI - Belo Horizonte. 
 O código anteriormente apresentava uma solução um pouco mais "ultrapassada", tendo até mesmo que identificar quantos
 produtos a pessoa desejava cadastrar. Modifiquei de forma que a pessoa vai cadastrando até que deseje sair do cadastro,
 além disso acrescentei os menus, para assim ficar mais interativo, e não seguindo diretamente um fluxo!
